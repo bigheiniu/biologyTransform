@@ -1,0 +1,6 @@
+#
+*.jar
+*.txt
+*.java
+bin/
+resources/
